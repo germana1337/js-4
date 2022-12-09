@@ -1,14 +1,5 @@
 "use strict";
 
-
-
-
-
-
-
-
-
-
 // let array = [5, 25, 89, 120, 36];
 // array.push ('javascript','python')
 // array.unshift('html','css');
