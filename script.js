@@ -1,35 +1,39 @@
 "use strict";
 
-// let array = [5, 25, 89, 120, 36];
-// array.push('javascript', 'python')
-// array.unshift('html','css')
-// for (let i = 0; i < array.length; i++) {
-//     return (array[i]);
-//   }
-//   array.shift();
-//   array.pop();
 
+
+
+
+
+
+
+
+
+// let array = [5, 25, 89, 120, 36];
+// array.push ('javascript','python')
+// array.unshift('html','css');
+// console.log(array.length);
+// array.shift();
+// array.pop();
 // console.log(array);
+
 
 // 2
 
-// let array = ['orange','banana','pean'];
-// for (let i = 0; i < array.length; i++){
-//     console.log(array[i]);
-// }
+// let array = ['orange','banana','pear'];
+// console.log(array.length);
 // array.push('apple','pineapple');
-// array.unshift('watermelon')
-// console.log(); (array.length);
-// array.splice(0,1)
-// array.splice(4,1)
-// array.splice(3,1,'Mango')
-
+// array.unshift('watermelon');
+// console.log(array.length);
+// array.splice(3,0,'mango')
+// array.shift
+// array.pop
+// console.log(array.length);
 // console.log(array);
 
 //3
 
 // let array = [12, 25, 3, 6, 8, 14, 7, 23];
-
 // let mapArray = array.map(function (item) {
 //     return item / 3;
 // })
@@ -118,3 +122,4 @@
 // let array = [1, 2, 3, 4, 5];
 // array.splice(3,0,'a','b','c');
 // console.log(array);
+
